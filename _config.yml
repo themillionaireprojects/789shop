@@ -2,8 +2,8 @@
 # Site
 
 title: Hello
-url: "http://turquoise-rook.cloudvent.net/"
-baseurl:
+url: "https://themillionaireprojects.github.io/789shop/"
+baseurl:"/789shop/"
 google_analytics_key:
 google_maps_javascript_api_key:
 snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
